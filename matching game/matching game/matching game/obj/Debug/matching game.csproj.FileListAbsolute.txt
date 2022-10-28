@@ -1,0 +1,11 @@
+D:\MATKUL PAK PUJA\repos\matching game\matching game\bin\Debug\matching game.exe.config
+D:\MATKUL PAK PUJA\repos\matching game\matching game\bin\Debug\matching game.exe
+D:\MATKUL PAK PUJA\repos\matching game\matching game\bin\Debug\matching game.pdb
+D:\MATKUL PAK PUJA\repos\matching game\matching game\obj\Debug\matching game.csproj.AssemblyReference.cache
+D:\MATKUL PAK PUJA\repos\matching game\matching game\obj\Debug\matching game.csproj.SuggestedBindingRedirects.cache
+D:\MATKUL PAK PUJA\repos\matching game\matching game\obj\Debug\matching_game.Form1.resources
+D:\MATKUL PAK PUJA\repos\matching game\matching game\obj\Debug\matching_game.Properties.Resources.resources
+D:\MATKUL PAK PUJA\repos\matching game\matching game\obj\Debug\matching game.csproj.GenerateResource.cache
+D:\MATKUL PAK PUJA\repos\matching game\matching game\obj\Debug\matching game.csproj.CoreCompileInputs.cache
+D:\MATKUL PAK PUJA\repos\matching game\matching game\obj\Debug\matching game.exe
+D:\MATKUL PAK PUJA\repos\matching game\matching game\obj\Debug\matching game.pdb
